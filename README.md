@@ -1,12 +1,20 @@
 # 캡스톤 프로젝트 환경
 
-## 개발 환경 GitPod 접속
-gitpod.io/#https://github.com/msa-school/capstone-project-base
+1. Fork (내 저장소로 환경 복제)
+이 Repo 를 먼저 Fork 합니다. github 의 우상단 Fork를 클릭
 
-> 접속 후, store-domain > main > java 내의 Java 파일을 하나 Open
-> Java Language Server 가 기동되는 것을 꼭 확인
-> Java Language Support 플러그인을 설치한다는 메시지에 꼭 "Install" 해줄것
-> 혹시 Reload Window 하겠다는 메시지가 들어오면 그것도 수락
+1. 본인의 레포지토리를 확인
+e.g. github.com/내계정/capstone-project-base
+
+1. Gitpod 로 접속
+본인의 레포지토리 주소 앞에 "gitpod.io/#" 을 넣고 접속 
+e.g. gitpod.io/#https://github.com/msa-school/capstone-project-base
+
+1. VS Code 접속 및 Language Server 확인
+- VS Code 접속 후, store-domain > main > java 내의 Java 파일을 하나 Open
+- Java Language Server 가 기동되는 것을 꼭 확인
+- Java Language Support 플러그인을 설치한다는 메시지에 꼭 "Install" 해줄것
+- 혹시 Reload Window 하겠다는 메시지가 들어오면 그것도 수락
 
 
 ## 오리엔테이션
