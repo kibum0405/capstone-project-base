@@ -78,9 +78,9 @@ bin/kafka-console-consumer.sh --bootstrap-server 127.0.0.1:9092 --topic petstore
 - kubectl 설치
 https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
 - awscli 설치
-TODO
+https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.html
 - eksctl 설치
-TODO
+https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/eksctl.html
 
 ## 쿠버네티스 
 
