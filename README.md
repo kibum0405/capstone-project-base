@@ -73,7 +73,6 @@ cd kafka_2.13-3.1.0/
 bin/kafka-console-consumer.sh --bootstrap-server 127.0.0.1:9092 --topic petstore
 ```
 
-
 ## 클라우드 관련 유틸리티
 
 - kubectl 설치
@@ -105,3 +104,8 @@ helm install my-kafka bitnami/kafka
 ```bash
 
 ```
+
+## 자주 쓰는 명령 (TODO)
+- 포트 확인 및 점유 프로세스 삭제
+- httpie pod 생성
+- siege pod 생성
