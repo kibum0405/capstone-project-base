@@ -14,12 +14,11 @@ e.g. gitpod.io/#https://github.com/msa-school/capstone-project-base
 - VS Code 접속 후, store-domain > main > java 내의 Java 파일을 하나 Open
 - Java Language Server 가 기동되는 것을 꼭 확인
 - Java Language Support 플러그인을 설치한다는 메시지에 꼭 "Install" 해줄것
-- 혹시 Reload Window 하겠다는 메시지가 들어오면 그것도 수락
+- 혹시 Reload Window, Restart Now 하겠다는 메시지가 들어오면 그것도 수락
 
 
 ## 오리엔테이션
-https://www.youtube.com/embed/Cd2NaMLwLNg (short version)
-https://www.youtube.com/embed/u-C1mrSUAjg (long version)
+https://www.youtube.com/embed/u-C1mrSUAjg
 
 
 ### 평가 항목
@@ -102,6 +101,7 @@ helm install my-kafka bitnami/kafka
 ```
 
 #### Nginx ingress 설치
+(TODO)
 ```bash
 
 ```
